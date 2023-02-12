@@ -1,7 +1,7 @@
 
 
 - 🔭 # 💫 About Me:
-i'm currently working on creating a website for my startup.<br>i'm looking for collaborate on software development related content creation.<br>i'm looking for help with developing a website that can help in my startup project.<br>i'm currently learning full stack web development and cybersecurity engineering.<br>ask me about website delopment.<br>fun fact- i am lazy but smart.
+🌱 i'm currently working on creating a website for my startup.<br>👯 i'm looking for collaborate on software development related content creation.<br>🤔 i'm looking for help with developing a website that can help in my startup project.<br>📫  i'm currently learning full stack web development and cybersecurity engineering.<br>💬 ask me about website delopment.<br>⚡ fun fact- i am lazy but smart.
 
 
 ## 🌐 Socials:
@@ -30,11 +30,4 @@ i'm currently working on creating a website for my startup.<br>i'm looking for c
 [![](https://visitcount.itsvg.in/api?id=Codings-Funda&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🌱 
-- 👯 
-- 🤔 
-- 💬
-- 📫 
-- 😄 
-- ⚡
 
