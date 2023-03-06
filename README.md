@@ -21,10 +21,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Codings-Funda&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@Codings-Funda)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
